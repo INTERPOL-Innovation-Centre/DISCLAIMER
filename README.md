@@ -1,5 +1,5 @@
 # DISCLAIMER
-Global disclaimer that applies to all repositories within this Github organistaion.  Please read before using and participating.  
+Global disclaimer that applies to all repositories within this Github organisation.  Please read before using and participating.  
 
 This catalogue of repositories includes open source, proprietary and publicly available tools and services (collectively, the “Tools” and each, a “Tool”) that offer various functionalities. These tools are listed merely for the information of the user. They may be viewed, downloaded and/or used at the discretion of the user. In relation to these, please note the following:  
 - INTERPOL has not developed or verified the Tools, does not endorse them, has no association with their providers, and does not license or provide any support for the use of such Tools. INTERPOL provides no warranties (express or implied) in relation to the Tools or any of them, their utility for any purpose or effectiveness.  
